@@ -1,12 +1,12 @@
 body {
   font-family: 'Playfair Display', serif;
   text-align: center;
-  background: url("/resources/images/background.jpg");
+  background: url("/resources/images/banner-veg.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% auto;
   background-color: white;
-  color: #E5781D;
+  color: #000000;
 }
 
 .filter {
@@ -17,9 +17,9 @@ body {
 }
 
 .input-md {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: white;
   color: #E5781D;
-  border: 2px solid #E5781D;
+  border: 2px solid #000000;
   height: 40px;
   border-radius: 5px;
   text-align: center;
@@ -32,7 +32,7 @@ body {
 .btn {
   background: rgba(255, 255, 255, 0.6);
   color: #E5781D;
-  border: 2px solid #E5781D;
+  border: 2px solid #000000;
   height: 40px;
 }
 
